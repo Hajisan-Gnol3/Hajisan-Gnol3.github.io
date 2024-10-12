@@ -1,1 +1,1 @@
-# Hajisan-Gnol3.io
+简单的做一下静态网页
